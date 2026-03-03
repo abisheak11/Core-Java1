@@ -9,7 +9,7 @@ public interface Car {
     void getEngine();
 
     //DEFAULT METHOD
-   public default void getSeat(){
+   default void getSeat(){
        getMileage();
     }
 
