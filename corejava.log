@@ -1,1 +1,11 @@
-2026-03-02 12:53:09,080 INFO c.j.m.m.Static [main] IOB
+2026-03-03 07:51:05,564 INFO c.j.m.a.SBI [main] 23455
+2026-03-03 07:53:35,200 INFO c.j.m.a.Main [main] 1000.0
+2026-03-03 07:54:09,280 INFO c.j.m.a.Main [main] 1000.0
+2026-03-03 07:54:09,305 INFO c.j.m.a.SBI [main] Account No:23455
+2026-03-03 07:54:09,305 INFO c.j.m.a.SBI [main] Account Name:Saving Account
+2026-03-03 07:55:10,178 INFO c.j.m.a.Main [main] 1000.0
+2026-03-03 07:55:10,186 INFO c.j.m.a.SBI [main] Account No:23455
+2026-03-03 07:55:10,186 INFO c.j.m.a.SBI [main] Account Name:Saving Account
+2026-03-03 07:55:27,423 INFO c.j.m.a.Main [main] 1000.0
+2026-03-03 07:55:27,429 INFO c.j.m.a.SBI [main] Account No:23455
+2026-03-03 07:55:27,430 INFO c.j.m.a.SBI [main] Account Type:Saving Account
