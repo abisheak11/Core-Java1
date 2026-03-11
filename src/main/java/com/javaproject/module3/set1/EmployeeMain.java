@@ -8,10 +8,10 @@ import java.util.*;
 public class EmployeeMain {
     public static void main(String[] args) {
         Employee employee1 = new Employee();
-        employee1.setEmployeeName("Abishek");
+        employee1.setEmployeeName("zahir");
         employee1.setEmployeeId(234);
         Employee employee2 = new Employee();
-        employee2.setEmployeeName("Ajax");
+        employee2.setEmployeeName("Abc");
         employee2.setEmployeeId(123);
         Employee employee3 = new Employee();
         employee3.setEmployeeName("Jebin");
@@ -26,13 +26,17 @@ public class EmployeeMain {
         employeeSet.add(employee3);
         employeeSet.add(employee4);
 
-        Set<Employee>employeeSet1 = new TreeSet<>(employeeSet);
-        employeeSet1.forEach(log::info);
+       employeeSet.forEach(employee -> log.info(employee));
 
-        List<Employee>employees = new ArrayList<>();
-        for (Employee employee0:employeeSet1){
-           log.info(employee0.getEmployeeId());
-        }
+
+       Set<Employee>employeeSet1 = new TreeSet<>(employeeSet);
+       employeeSet1.forEach(sortEmp->log.info(sortEmp));
+       for (Employee employee11:employeeSet1){
+           log.info(employee11.getEmployeeName());
+
+       }
+
+
         }
     }
 

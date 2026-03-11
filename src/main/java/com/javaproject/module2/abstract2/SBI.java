@@ -1,4 +1,4 @@
-package com.javaproject.module2.abstract1;
+package com.javaproject.module2.abstract2;
 
 import lombok.extern.log4j.Log4j2;
 

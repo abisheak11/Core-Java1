@@ -16,4 +16,9 @@ public class Diesel implements Car{
     public void getEngine() {
         log.info("Diesel Engine");
     }
+
+    public void getDieselCarMil(){
+
+        log.info("Diesel Car Mileage 10Km per liter");
+    }
 }

@@ -5,7 +5,9 @@ import lombok.extern.log4j.Log4j2;
 @Log4j2
 public class SchoolMain {
     public static void main(String[] args) {
-        log.info("MONTH:{}",School.MONTH.getDate());
-        log.info("YEAR:{}",School.YEAR.getDate());
+       log.info( School.MONTH.getDate());
+       for (School school :School.values()){
+           log.info(school);
+       }
     }
 }

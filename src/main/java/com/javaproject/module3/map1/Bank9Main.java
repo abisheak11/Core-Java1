@@ -34,6 +34,8 @@ public class Bank9Main {
 
         accountMap.forEach((accountDetail, accounts) -> log.info
                 ("accountDetail{}:and accountName{}:", accountDetail, accounts));
+
+
         Set<Map.Entry<Saving, Bank9>> entries = accountMap.entrySet();
         for (Map.Entry<Saving, Bank9> entry : entries) {
             log.info("key:{}and value:{}",entry.getKey(),entry.getValue());

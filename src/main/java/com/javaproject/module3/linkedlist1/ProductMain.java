@@ -26,7 +26,15 @@ public class ProductMain {
 
         Collections.sort(productList);
 
-        productList.forEach(productlist1 ->log.info(productlist1) );
+        productList.forEach(log::info);
+
+        List<Product>products = new LinkedList<>();
+        for(Product product :productList){
+            if (product.getProductPrice()>1000)
+           products.add(product);
+        }
+        products.forEach(log::info);
+
 
     }
 }

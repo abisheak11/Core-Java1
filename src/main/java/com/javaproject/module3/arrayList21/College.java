@@ -9,8 +9,12 @@ import lombok.extern.log4j.Log4j2;
 @Getter
 @Setter
 @ToString
-public class College {
+public class College implements Comparable<College> {
     public String studentName;
     public int studentId;
+
+    public int compareTo(College college){
+        return this.getStudentName().compareTo(college.getStudentName());
+    }
 
 }

@@ -14,6 +14,7 @@ public class Main {
         Diesel diesel = new Diesel("CITY");
         diesel.getCarName();
         diesel.getEngine();
+        diesel.getDieselCarMil();
 
 
 

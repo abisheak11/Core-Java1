@@ -13,6 +13,6 @@ public class Example5 {
         for(int ad :arr){
             set.add(ad);
         }
-        set.forEach(a1->log.info(a1));
+        set.forEach(log::info);
     }
 }

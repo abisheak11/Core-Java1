@@ -9,10 +9,10 @@ import java.util.TreeMap;
 public class SchMain {
     public static void main(String[] args) {
         School78 student1= new School78();
-        student1.setStdName("jebin");
+        student1.setStdName("Jenine");
         student1.setMark(60);
         School78 student2= new School78();
-        student2.setStdName("jixen");
+        student2.setStdName("jaxen");
         student2.setMark(75);
         School78 student3= new School78();
         student3.setStdName("ABC");
@@ -25,12 +25,12 @@ public class SchMain {
         SchoolId studentId3 = new SchoolId();
         studentId3.setStdId(101);
 
-        Map<SchoolId,School78>maplist= new TreeMap<>();
-        maplist.put(studentId1,student1);
-        maplist.put(studentId2,student2);
-        maplist.put(studentId3,student3);
+        Map<SchoolId,School78>mapList= new TreeMap<>();
+        mapList.put(studentId1,student1);
+        mapList.put(studentId2,student2);
+        mapList.put(studentId3,student3);
 
-        maplist.forEach((key,value)->log.info("key{}:and value{}:", key,value));
+        mapList.forEach((key,value)->log.info("key{}:and value{}:", key,value));
 
 
     }

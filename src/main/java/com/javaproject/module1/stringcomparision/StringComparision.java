@@ -26,7 +26,7 @@ public class StringComparision {
             log.info("not same");
         }
     }
-    //COMPARETO METHOD TO COMPARE THE STRING
+    //COMPARE TO METHOD TO COMPARE THE STRING
     public void CompareTo(String name, String name1){
         if(name.compareTo(name1)==0){
             log.info("same");
