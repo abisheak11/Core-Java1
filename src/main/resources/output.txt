@@ -1,0 +1,6 @@
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+ 2026-03-01 19:00:06.814 [main] Example3 - char:a  coming:2time[INFO ] 2026-03-01 19:00:06.829 [main] Example3 - char:b
+  coming:1time[INFO ] 2026-03-01 19:00:06.829 [main] Example3 - char:s  coming:1time[INFO ] 2026-03-01 19:00:06.830
+   [main] Example3 - char:e  coming:1time[INFO ] 2026-03-01 19:00:06.831 [main] Example3 - char:h  c
+   oming:1time[INFO ] 2026-03-01 19:00:06.831 [main] Example3 - char:i  coming:1time[INFO ] 2026-03-01 19:00:06.832
+   [main] Example3 - char:k  coming:1time.
