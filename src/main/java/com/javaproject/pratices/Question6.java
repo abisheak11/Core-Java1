@@ -3,6 +3,7 @@ package com.javaproject.pratices;
 import lombok.extern.log4j.Log4j2;
 
 @Log4j2
+//PALINDROME
 public class Question6 {
     public static void main(String[] args) {
         String word ="Malayalam";

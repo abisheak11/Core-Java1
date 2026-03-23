@@ -1,139 +1,16 @@
-2026-03-11 16:12:12,500 INFO c.j.p.Question8 [main] 0
-2026-03-11 16:12:12,521 INFO c.j.p.Question8 [main] 1
-2026-03-11 16:12:12,522 INFO c.j.p.Question8 [main] 1
-2026-03-11 16:12:12,522 INFO c.j.p.Question8 [main] 2
-2026-03-11 16:12:12,523 INFO c.j.p.Question8 [main] 3
-2026-03-11 16:12:24,493 INFO c.j.p.Question8 [main] 0
-2026-03-11 16:12:24,508 INFO c.j.p.Question8 [main] 1
-2026-03-11 16:12:24,508 INFO c.j.p.Question8 [main] 1
-2026-03-11 16:12:24,508 INFO c.j.p.Question8 [main] 2
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 3
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 5
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 8
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 13
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 21
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 34
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 55
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 89
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 144
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 233
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 377
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 610
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 987
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 1597
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 2584
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 4181
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 6765
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 10946
-2026-03-11 16:12:24,532 INFO c.j.p.Question8 [main] 17711
-2026-03-11 16:12:24,539 INFO c.j.p.Question8 [main] 28657
-2026-03-11 16:12:24,539 INFO c.j.p.Question8 [main] 46368
-2026-03-11 16:12:24,539 INFO c.j.p.Question8 [main] 75025
-2026-03-11 16:12:24,539 INFO c.j.p.Question8 [main] 121393
-2026-03-11 16:12:24,539 INFO c.j.p.Question8 [main] 196418
-2026-03-11 16:12:24,539 INFO c.j.p.Question8 [main] 317811
-2026-03-11 16:12:24,539 INFO c.j.p.Question8 [main] 514229
-2026-03-11 16:12:24,540 INFO c.j.p.Question8 [main] 832040
-2026-03-11 16:12:24,540 INFO c.j.p.Question8 [main] 1346269
-2026-03-11 16:12:24,540 INFO c.j.p.Question8 [main] 2178309
-2026-03-11 16:12:24,540 INFO c.j.p.Question8 [main] 3524578
-2026-03-11 16:12:24,540 INFO c.j.p.Question8 [main] 5702887
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 9227465
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 14930352
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 24157817
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 39088169
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 63245986
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 102334155
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 165580141
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 267914296
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 433494437
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 701408733
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 1134903170
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 1836311903
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] -1323752223
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] 512559680
-2026-03-11 16:12:24,543 INFO c.j.p.Question8 [main] -811192543
-2026-03-11 16:13:47,291 INFO c.j.p.Question8 [main] 0
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 1
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 1
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 2
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 3
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 5
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 8
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 13
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 21
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 34
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 55
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 89
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 144
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 233
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 377
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 610
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 987
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 1597
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 2584
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 4181
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 6765
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 10946
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 17711
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 28657
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 46368
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 75025
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 121393
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 196418
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 317811
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 514229
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 832040
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 1346269
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 2178309
-2026-03-11 16:13:47,301 INFO c.j.p.Question8 [main] 3524578
-2026-03-11 16:18:11,401 INFO c.j.p.Question11 [main] 9
-2026-03-11 16:19:20,435 INFO c.j.p.Question11 [main] 8
-2026-03-11 16:27:28,484 INFO c.j.p.Question2 [main] 3
-2026-03-11 16:27:28,502 INFO c.j.p.Question2 [main] 32
-2026-03-11 16:27:28,504 INFO c.j.p.Question2 [main] 321
-2026-03-11 16:27:30,531 INFO c.j.p.Question2 [main] 3
-2026-03-11 16:27:30,531 INFO c.j.p.Question2 [main] 32
-2026-03-11 16:27:30,531 INFO c.j.p.Question2 [main] 321
-2026-03-11 16:27:51,441 INFO c.j.p.Question2 [main] 321
-2026-03-11 16:31:43,139 INFO c.j.p.Question12 [main] 1
-2026-03-11 16:31:43,155 INFO c.j.p.Question12 [main] 2
-2026-03-11 16:31:43,155 INFO c.j.p.Question12 [main] 3
-2026-03-11 16:31:43,155 INFO c.j.p.Question12 [main] 4
-2026-03-11 16:31:43,155 INFO c.j.p.Question12 [main] 5
-2026-03-11 16:32:25,336 INFO c.j.p.Question12 [main] 1
-2026-03-11 16:32:25,336 INFO c.j.p.Question12 [main] 1
-2026-03-11 16:32:25,336 INFO c.j.p.Question12 [main] 2
-2026-03-11 16:32:25,336 INFO c.j.p.Question12 [main] 2
-2026-03-11 16:32:25,336 INFO c.j.p.Question12 [main] 3
-2026-03-11 16:32:25,336 INFO c.j.p.Question12 [main] 3
-2026-03-11 16:32:25,336 INFO c.j.p.Question12 [main] 4
-2026-03-11 16:32:25,336 INFO c.j.p.Question12 [main] 4
-2026-03-11 16:32:25,352 INFO c.j.p.Question12 [main] 5
-2026-03-11 16:32:25,352 INFO c.j.p.Question12 [main] 5
-2026-03-11 16:32:55,292 INFO c.j.p.Question12 [main] 1
-2026-03-11 16:32:55,296 INFO c.j.p.Question12 [main] 2
-2026-03-11 16:32:55,296 INFO c.j.p.Question12 [main] 3
-2026-03-11 16:32:55,296 INFO c.j.p.Question12 [main] 4
-2026-03-11 16:32:55,296 INFO c.j.p.Question12 [main] 7
-2026-03-11 16:32:55,296 INFO c.j.p.Question12 [main] 5
-2026-03-11 16:38:42,764 INFO c.j.p.Question12 [main] 2
-2026-03-11 16:38:42,769 INFO c.j.p.Question12 [main] 3
-2026-03-11 16:38:42,769 INFO c.j.p.Question12 [main] 4
-2026-03-11 16:38:42,769 INFO c.j.p.Question12 [main] 7
-2026-03-11 16:38:42,769 INFO c.j.p.Question12 [main] 7
-2026-03-11 16:38:57,967 INFO c.j.p.Question12 [main] 7
-2026-03-11 16:42:07,383 INFO c.j.p.Question13 [main] k
-2026-03-11 16:42:07,390 INFO c.j.p.Question13 [main] a
-2026-03-11 16:42:07,395 INFO c.j.p.Question13 [main] e
-2026-03-11 16:42:07,395 INFO c.j.p.Question13 [main] h
-2026-03-11 16:42:07,395 INFO c.j.p.Question13 [main] s
-2026-03-11 16:42:07,395 INFO c.j.p.Question13 [main] i
-2026-03-11 16:42:07,395 INFO c.j.p.Question13 [main] b
-2026-03-11 16:42:07,395 INFO c.j.p.Question13 [main] a
-2026-03-11 16:46:53,462 INFO c.j.p.Question14 [main] 3
-2026-03-11 16:46:53,462 INFO c.j.p.Question14 [main] 2
-2026-03-11 16:47:32,357 INFO c.j.p.Question14 [main] odd:3
-2026-03-11 16:47:32,363 INFO c.j.p.Question14 [main] even:2
-2026-03-11 16:48:07,160 INFO c.j.p.Question14 [main] odd:2
-2026-03-11 16:48:07,160 INFO c.j.p.Question14 [main] even:3
+2026-03-23 07:21:00,471 INFO j.u.ArrayList [main] Student(studentName=Ajit, studentId=113)
+2026-03-23 07:21:00,494 INFO j.u.ArrayList [main] Student(studentName=Vijay, studentId=112)
+2026-03-23 07:21:00,494 INFO j.u.ArrayList [main] Student(studentName=Surya, studentId=111)
+2026-03-23 07:21:00,495 INFO j.u.ArrayList [main] Student(studentName=Ravi, studentId=110)
+2026-03-23 08:11:06,610 INFO j.u.ArrayList [main] Student(studentName=Ajit, studentId=113)
+2026-03-23 08:11:06,610 INFO j.u.ArrayList [main] Student(studentName=Ravi, studentId=110)
+2026-03-23 08:11:06,626 INFO j.u.ArrayList [main] Student(studentName=Surya, studentId=111)
+2026-03-23 08:11:06,626 INFO j.u.ArrayList [main] Student(studentName=Vijay, studentId=112)
+2026-03-23 08:11:37,275 INFO j.u.ArrayList [main] Student(studentName=Ravi, studentId=110)
+2026-03-23 08:11:37,279 INFO j.u.ArrayList [main] Student(studentName=Surya, studentId=111)
+2026-03-23 08:11:37,279 INFO j.u.ArrayList [main] Student(studentName=Vijay, studentId=112)
+2026-03-23 08:11:37,279 INFO j.u.ArrayList [main] Student(studentName=Ajit, studentId=113)
+2026-03-23 08:13:47,581 INFO j.u.ArrayList [main] Student(studentName=Ravi, studentId=110)
+2026-03-23 08:13:47,599 INFO j.u.ArrayList [main] Student(studentName=Surya, studentId=111)
+2026-03-23 08:13:47,599 INFO j.u.ArrayList [main] Student(studentName=Vijay, studentId=112)
+2026-03-23 08:13:47,599 INFO j.u.ArrayList [main] Student(studentName=Ajit, studentId=113)

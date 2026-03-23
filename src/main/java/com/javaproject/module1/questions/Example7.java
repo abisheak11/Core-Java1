@@ -12,11 +12,11 @@ public class Example7 {
             sum = sum + arr[i];
 
         }
-            int total = n * (n + 1) / 2;
+        int total = n * (n + 1) / 2;
 
-            int missing = total - sum;
+        int missing = total - sum;
 
-            System.out.println("Missing Number: " + missing);
-        }
+        System.out.println("Missing Number: " + missing);
     }
+}
 

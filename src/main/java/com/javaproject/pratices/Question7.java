@@ -12,7 +12,6 @@ public class Question7 {
             int digit = input % 10;
             sum = sum + (digit * digit * digit);
             input = input / 10;
-
         }
             if (sum==check){
                 log.info("it is Armstrong number");

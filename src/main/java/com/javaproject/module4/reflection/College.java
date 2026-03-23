@@ -1,7 +1,7 @@
 package com.javaproject.module4.reflection;
 
 public class College {
-    private String studentVariable;
+    private String studentName;
 
 
     private String studentName1(){

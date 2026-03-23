@@ -3,6 +3,8 @@ package com.javaproject.pratices;
 import lombok.extern.log4j.Log4j2;
 
 @Log4j2
+
+//FIND THE LARGEST NUMBER A ARRAY
 public class Question12 {
     public static void main(String[] args) {
         int[]arr ={1,2,3,4,7,5};

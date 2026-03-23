@@ -7,7 +7,7 @@ import java.util.*;
 
 @Log4j2
 public class EmpMain {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Employee employee1 = new Employee();
         employee1.setEmployeeName("Ajith");
         employee1.setEmployeeId(22);
@@ -24,7 +24,7 @@ public class EmpMain {
         employee4.setEmployeeName("Dhanush");
         employee4.setEmployeeId(27);
 
-        List<Employee>employeeList= new ArrayList<>();
+        List<Employee> employeeList = new ArrayList<>();
         employeeList.add(employee1);
         employeeList.add(employee2);
         employeeList.add(employee3);
@@ -34,7 +34,7 @@ public class EmpMain {
         for (Employee employee : employeeList) {
             queue.add(employee);
         }
-            queue.forEach(queue1 -> log.info(queue1));
+        queue.forEach(queue1 -> log.info(queue1));
     }
-    }
+}
 

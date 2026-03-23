@@ -10,7 +10,13 @@ public interface Car {
 
     //DEFAULT METHOD
    default void getSeat(){
-       getMileage();
+      getMileage();
+
+    }
+    //DEFAULT METHOD
+    default void getSeat1(){
+        getMileage();
+
     }
 
     //STATIC METHOD
@@ -21,7 +27,6 @@ public interface Car {
     //PRIVATE METHOD
     private void getMileage(){
         System.out.println(5);
-
     }
 
 }

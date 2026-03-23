@@ -21,9 +21,8 @@ public class EmpMain {
     }
 
     public void serializable(String FILE,Employee employee){
-        try {
-            ObjectOutputStream objectOutputStream = new ObjectOutputStream(new FileOutputStream(FILE));
-            objectOutputStream.writeObject(employee);
+        try ( ObjectOutputStream objectOutputStream = new ObjectOutputStream(new FileOutputStream(FILE));)
+        { objectOutputStream.writeObject(employee);
 
         }catch (Exception ex){
             log.error("serialization",ex);

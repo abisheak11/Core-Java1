@@ -9,5 +9,10 @@ public class Main {
        double interest = sbi.getCalculation(2000.00);
        log.info(interest);
        sbi.getAccountDetail();
+       HDFC hdfc = new HDFC("Current Account");
+       double interest1 =hdfc.getCalculation(30000.00);
+       log.info(interest1);
+       hdfc.getDetails();
+       }
     }
-}
+

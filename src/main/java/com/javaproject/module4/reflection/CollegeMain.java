@@ -13,7 +13,7 @@ public class CollegeMain {
         Class collegeClass =college.getClass();
 
         //MODIFY THE BEHAVIOUR DURING THE RUNTIME
-        Field field = collegeClass.getDeclaredField("studentVariable");
+        Field field = collegeClass.getDeclaredField("studentName");
         field.setAccessible(true);
         field.set(college,"Abishek");
         log.info(field.get(college));
