@@ -1,4 +1,4 @@
-package com.javaproject.module3.arraylist2;
+package com.javaproject.module3.arraylistes.arraylist2;
 
 import lombok.Getter;
 import lombok.Setter;

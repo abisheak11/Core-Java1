@@ -13,7 +13,7 @@ public class Main {
         thread1.join();
 
         Ticket ticket2 = new Ticket();
-        Thread thread2 = new Thread(ticket1);
+        Thread thread2 = new Thread(ticket2);
         thread2.start();
         thread2.join();
 

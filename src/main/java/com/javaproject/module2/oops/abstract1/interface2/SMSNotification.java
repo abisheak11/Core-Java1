@@ -1,4 +1,4 @@
-package com.javaproject.module2.interface2;
+package com.javaproject.module2.oops.abstract1.interface2;
 
 public interface SMSNotification {
     default void sentNotification(){

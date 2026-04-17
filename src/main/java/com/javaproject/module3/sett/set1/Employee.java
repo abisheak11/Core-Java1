@@ -1,4 +1,4 @@
-package com.javaproject.module3.set1;
+package com.javaproject.module3.sett.set1;
 
 import lombok.Getter;
 import lombok.Setter;

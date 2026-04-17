@@ -1,10 +1,9 @@
-package com.javaproject.module3.arrayList21;
+package com.javaproject.module3.arraylistes.arrayList21;
 
 import lombok.extern.log4j.Log4j2;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
 import java.util.List;
 
 @Log4j2

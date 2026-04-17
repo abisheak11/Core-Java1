@@ -1,4 +1,4 @@
-package com.javaproject.module2.inheritance.multilevelinheritenes;
+package com.javaproject.module2.oops.abstract1.inheritance.multilevelinheritenes;
 
 public class Main {
     public static void main(String[] args) {

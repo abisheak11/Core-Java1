@@ -15,6 +15,8 @@ public class Main {
         log.info(account1);
         Account<String,Integer>account2 =new Account<>("Ajay",4567);
         log.info(account2);
+
+
         Main m1 = new Main();
         Boolean res= m1.compare(account1,account2);
         log.info(res);

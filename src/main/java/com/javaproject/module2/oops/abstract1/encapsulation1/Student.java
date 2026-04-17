@@ -1,4 +1,4 @@
-package com.javaproject.module2.encapsulation1;
+package com.javaproject.module2.oops.abstract1.encapsulation1;
 
 import lombok.ToString;
 

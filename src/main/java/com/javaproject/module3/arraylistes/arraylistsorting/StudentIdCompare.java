@@ -1,4 +1,4 @@
-package com.javaproject.module3.arraylistsorting;
+package com.javaproject.module3.arraylistes.arraylistsorting;
 
 import java.util.Comparator;
 

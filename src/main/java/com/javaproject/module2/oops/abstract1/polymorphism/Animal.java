@@ -1,4 +1,4 @@
-package com.javaproject.module2.polymorphism;
+package com.javaproject.module2.oops.abstract1.polymorphism;
 
 public interface Animal {
 

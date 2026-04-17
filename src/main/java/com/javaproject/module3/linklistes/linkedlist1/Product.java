@@ -1,11 +1,9 @@
-package com.javaproject.module3.linkedlist1;
+package com.javaproject.module3.linklistes.linkedlist1;
 
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 import lombok.extern.log4j.Log4j2;
-
-import java.util.Objects;
 
 @Log4j2
 @Getter

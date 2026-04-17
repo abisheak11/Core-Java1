@@ -1,4 +1,4 @@
-package com.javaproject.module2.association.aggergation;
+package com.javaproject.module2.oops.abstract1.association.aggergation;
 
 import lombok.extern.log4j.Log4j2;
 

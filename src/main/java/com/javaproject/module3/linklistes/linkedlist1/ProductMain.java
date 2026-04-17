@@ -1,4 +1,4 @@
-package com.javaproject.module3.linkedlist1;
+package com.javaproject.module3.linklistes.linkedlist1;
 
 import lombok.extern.log4j.Log4j2;
 

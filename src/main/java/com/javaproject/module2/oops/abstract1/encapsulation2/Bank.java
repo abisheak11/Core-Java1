@@ -1,4 +1,4 @@
-package com.javaproject.module2.encapsulation2;
+package com.javaproject.module2.oops.abstract1.encapsulation2;
 
 import lombok.ToString;
 import lombok.extern.log4j.Log4j2;

@@ -1,7 +1,4 @@
-package com.javaproject.module2.association.aggergation;
-
-import com.javaproject.module2.association.composition.Car;
-import com.javaproject.module2.association.composition.Engine;
+package com.javaproject.module2.oops.abstract1.association.aggergation;
 
 public class Main {
     public static void main(String[] args) {

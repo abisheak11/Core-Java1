@@ -1,16 +1,6 @@
-2026-03-23 07:21:00,471 INFO j.u.ArrayList [main] Student(studentName=Ajit, studentId=113)
-2026-03-23 07:21:00,494 INFO j.u.ArrayList [main] Student(studentName=Vijay, studentId=112)
-2026-03-23 07:21:00,494 INFO j.u.ArrayList [main] Student(studentName=Surya, studentId=111)
-2026-03-23 07:21:00,495 INFO j.u.ArrayList [main] Student(studentName=Ravi, studentId=110)
-2026-03-23 08:11:06,610 INFO j.u.ArrayList [main] Student(studentName=Ajit, studentId=113)
-2026-03-23 08:11:06,610 INFO j.u.ArrayList [main] Student(studentName=Ravi, studentId=110)
-2026-03-23 08:11:06,626 INFO j.u.ArrayList [main] Student(studentName=Surya, studentId=111)
-2026-03-23 08:11:06,626 INFO j.u.ArrayList [main] Student(studentName=Vijay, studentId=112)
-2026-03-23 08:11:37,275 INFO j.u.ArrayList [main] Student(studentName=Ravi, studentId=110)
-2026-03-23 08:11:37,279 INFO j.u.ArrayList [main] Student(studentName=Surya, studentId=111)
-2026-03-23 08:11:37,279 INFO j.u.ArrayList [main] Student(studentName=Vijay, studentId=112)
-2026-03-23 08:11:37,279 INFO j.u.ArrayList [main] Student(studentName=Ajit, studentId=113)
-2026-03-23 08:13:47,581 INFO j.u.ArrayList [main] Student(studentName=Ravi, studentId=110)
-2026-03-23 08:13:47,599 INFO j.u.ArrayList [main] Student(studentName=Surya, studentId=111)
-2026-03-23 08:13:47,599 INFO j.u.ArrayList [main] Student(studentName=Vijay, studentId=112)
-2026-03-23 08:13:47,599 INFO j.u.ArrayList [main] Student(studentName=Ajit, studentId=113)
+2026-04-15 14:23:14,543 INFO c.j.m.r.ReentrantLock1 [Thread-0] Thread-0acquired lock
+2026-04-15 14:23:14,575 INFO c.j.m.r.ReentrantLock1 [Thread-1] Thread-1acquired lock
+2026-04-15 14:23:34,425 INFO c.j.m.r.ReentrantLock1 [Thread-0] Thread-0acquired lock
+2026-04-15 14:23:34,441 INFO c.j.m.r.ReentrantLock1 [Thread-0] Thread-0inside nested method
+2026-04-15 14:23:34,441 INFO c.j.m.r.ReentrantLock1 [Thread-1] Thread-1acquired lock
+2026-04-15 14:23:34,443 INFO c.j.m.r.ReentrantLock1 [Thread-1] Thread-1inside nested method

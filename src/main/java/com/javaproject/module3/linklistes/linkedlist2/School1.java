@@ -1,4 +1,4 @@
-package com.javaproject.module3.linkedlist2;
+package com.javaproject.module3.linklistes.linkedlist2;
 
 import lombok.Getter;
 import lombok.Setter;

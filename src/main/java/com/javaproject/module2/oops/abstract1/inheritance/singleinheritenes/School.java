@@ -1,4 +1,4 @@
-package com.javaproject.module2.inheritance.singleinheritenes;
+package com.javaproject.module2.oops.abstract1.inheritance.singleinheritenes;
 
 import lombok.extern.log4j.Log4j2;
 

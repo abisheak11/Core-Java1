@@ -1,4 +1,4 @@
-package com.javaproject.module3.arraylist2;
+package com.javaproject.module3.arraylistes.arraylist2;
 
 
 import lombok.extern.log4j.Log4j2;

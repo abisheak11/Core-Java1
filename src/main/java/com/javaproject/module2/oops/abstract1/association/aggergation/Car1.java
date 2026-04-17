@@ -1,6 +1,5 @@
-package com.javaproject.module2.association.aggergation;
+package com.javaproject.module2.oops.abstract1.association.aggergation;
 
-import com.javaproject.module2.association.composition.Engine;
 import lombok.extern.log4j.Log4j2;
 
 @Log4j2
