@@ -34,12 +34,12 @@ public class StudentMain {
         students.add(student4);
 
         //Collection sort
-
+        Collections.sort(students);
 
         //Before java 8
        // Collections.sort(students,new StudentIdCompare());
         //From java 8
-        Collections.sort(students, Comparator.comparing(student5 -> student5.getStudentId()));
+       // Collections.sort(students, Comparator.comparing(student5 -> student5.getStudentId()));
       //  students.sort(Comparator.comparing(student -> student.getStudentName()));
         students.forEach(log::info);
 

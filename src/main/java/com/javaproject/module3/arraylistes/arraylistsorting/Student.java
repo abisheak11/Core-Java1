@@ -7,14 +7,14 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-public class Student{// implements Comparable<Student>{
+public class Student implements Comparable<Student>{
     public String studentName;
     public int studentId;
 
 
-   // @Override
+    @Override
     public int compareTo(Student student) {
-      // return this.studentName.compareTo(student.studentName);
-        return this.studentId-student.studentId;
+       return this.studentName.compareTo(student.studentName);
+       // return this.studentId-student.studentId;
     }
 }
